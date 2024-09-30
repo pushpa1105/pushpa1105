@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/-@pushpa1105-%23181717?style=flat-square&logo=github)](https://github.com/pushpa1105)
 [![](https://img.shields.io/badge/-@pushpa1105-%23ffffff?style=flat-square&logo=gmail)](mailto:me.buffedon@gmail.com)
 [![](https://img.shields.io/badge/-@pushpa1105-%23000000?style=flat-square&logo=telegram)](https://t.me/buffmomo1105)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=buffe.me&url=https%3A%2F%2Fxlbd.me)](https://buffe.netlify.app/)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=lamapushpa.com&url=https%3A%2F%2Fxlbd.me)](https://lamapushpa.com)
 
 <img src="./public/halo.gif">
 
@@ -58,6 +58,12 @@ Working at <a href="https://www.keela.co/" class="markdown-magic-link markdown-m
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+
+![NestJS](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)
+![Django Rest Framework](https://img.shields.io/badge/django--rest--framework-blue?style=for-the-badge&labelColor=333333&logo=django&logoColor=white&color=blue)
+![FAST API](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-3982CE?style=for-the-badge&logo=Drizzle&logoColor=white)
 
 <br>
 <br>
