@@ -12,7 +12,7 @@
 
 <br>
 <br>
-Working at <a href="https://www.keela.co/" class="markdown-magic-link markdown-magic-link-link" target="_blank" rel="noopener">Keela</a>
+Working at <a href="https://tekkon.com.np/" class="markdown-magic-link markdown-magic-link-link" target="_blank" rel="noopener">Tekkon</a>
 
 <br>
 
