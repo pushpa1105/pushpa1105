@@ -4,7 +4,7 @@
 
 [![](https://img.shields.io/badge/-@pushpa1105-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/buffe_don)
 [![](https://img.shields.io/badge/-@pushpa1105-%23181717?style=flat-square&logo=github)](https://github.com/pushpa1105)
-[![](https://img.shields.io/badge/-@pushpa1105-%23ffffff?style=flat-square&logo=gmail)](mailto:me.buffedon@gmail.com)
+[![](https://img.shields.io/badge/-@pushpa1105-%23ffffff?style=flat-square&logo=gmail)](mailto:lama.pushpa1998@gmail.com)
 [![](https://img.shields.io/badge/-@pushpa1105-%23000000?style=flat-square&logo=telegram)](https://t.me/buffmomo1105)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=lamapushpa.com&url=https%3A%2F%2Fxlbd.me)](https://lamapushpa.com)
 
